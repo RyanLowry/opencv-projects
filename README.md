@@ -1,3 +1,3 @@
-# raspberry-pi-projects
+# opencv-projects
 
-Different projects a bit more related to hardware using the raspberry pi.
+Projects using python opencv.
